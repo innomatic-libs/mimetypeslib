@@ -1,0 +1,104 @@
+body {
+	background-color: #F0F0F0;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	margin: 1em;
+}
+
+a:link, a:visited {
+	color : #000099;
+}
+
+a:hover {
+	background-color : #FFFFFF;
+	color : #00009F;
+}
+
+h1 {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+h2 {
+	font-size: 14pt;
+}
+
+h3 {
+	color: navy;
+	font-size: 12pt;
+	margin-top: 1em;
+}
+
+h4 {
+	color: Navy;
+	font-size: 11pt;
+	background-color: #E6E6FA;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+blockquote {
+	margin-left: 1em;
+}
+
+td {
+	font-size: 10pt;
+}
+
+code {
+	font-size: small;
+}
+
+hr {
+	color: #999999;
+}
+
+.pagetop {
+	background-color: #cccccc;
+}
+
+.located-in {
+	font-style: italic;
+	font-size: small;
+}
+
+.class-heading {
+	color: navy;
+}
+
+h2.section {
+}
+
+.method-name-summary {
+	color: Navy;
+	font-size: small;
+}
+
+.method-name-detailed {
+	color: Navy;
+	font-size: medium;
+}
+
+div.method-detailed-block {
+	margin-left: 2em;
+}
+
+.footer {
+	font-size: small;
+}
+
+.menu-list, .left-menu-list {
+	font-size: small;
+}
+
+.left-menu-list {
+	margin-left: 1.5em;
+}
+
+th {
+	text-align: left;
+	background-color: #cccccc;
+}

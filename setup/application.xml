@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<application>
+
+	<definition>
+		<idname>mimetypeslib</idname>
+		<release>
+			<version>0.1-2</version>
+			<date>2008/12/15</date>
+			<changesfile>CHANGES</changesfile>
+		</release>
+		<description>
+			Retrieves the appropriate MIME type of a file.
+		</description>
+		<category>libraries</category>
+		<iconfile></iconfile>
+		<legal>
+			<author>
+				<name>Keyvan Minoukadeh</name>
+				<email>keyvan@k1m.com</email>
+				<web>
+					http://www.phpclasses.org/browse.html/package/922.html
+				</web>
+			</author>
+			<copyright></copyright>
+			<license>GPL</license>
+			<licensefile></licensefile>
+		</legal>
+		<support>
+			<supportemail>support@innomatica.it</supportemail>
+			<bugsemail>bugs@innomatica.it</bugsemail>
+			<maintainer>
+				<name>Alex Pagnoni</name>
+				<email>alex.pagnoni@innoteam.it</email>
+			</maintainer>
+		</support>
+	</definition>
+
+	<components>
+
+		<class name="mimetypes/MimeTypes.php" />
+
+		<extras name="mime.types" />
+
+	</components>
+</application>

@@ -1,0 +1,5 @@
+This class allows you to:
+ - Retrieve the appropriate MIME type of a file (based on it's extension, or by utilising the file command to guess it based on the file contents). 
+ - Retrieve extension(s) associated with a MIME type. 
+ - Load MIME types and extensions from a mime.types file.
+ 
